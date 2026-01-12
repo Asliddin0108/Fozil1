@@ -5,8 +5,8 @@ from functools import lru_cache
 import re, os, traceback, tempfile
 
 # ✅ API ma'lumotlari (o'zingizniki)
-api_id = 39150321
-api_hash = "bb752345e4ac4853e659c6c97cea9e9d"
+api_id = 20439154
+api_hash = "3125ce8355eebd911e56d564d643bb64"
 client = TelegramClient("bot1_openA", api_id, api_hash)
 
 # 🛡 Railway uchun instance nazorati
